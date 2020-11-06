@@ -143,3 +143,5 @@ while play_again:
         print('\nOkay! Thanks for playing\n')
         play_again = False
     sleep(0.5)
+
+print('Contact Me!\nblackfordbenjamin@gmail.com\nblackfordengineering.ca')
